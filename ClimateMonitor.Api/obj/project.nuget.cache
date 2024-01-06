@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y2B+qqeG5jDFEuLZR9crTXnb9bqtQ85sGNyBPVC3QjViakHt1uD9SHc3xWw+3THOL7LTgP47uNJscgDfalBIEQ==",
+  "success": true,
+  "projectFilePath": "/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Api/ClimateMonitor.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/joaosilva/.nuget/packages/dapper/2.1.24/dapper.2.1.24.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/dapper.fluentmap/2.0.0/dapper.fluentmap.2.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/dapper.fluentmap.dommel/2.0.0/dapper.fluentmap.dommel.2.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/dommel/2.0.0/dommel.2.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

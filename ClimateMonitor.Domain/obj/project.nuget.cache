@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8U71Li719CEi/1JKRbhYSjHx+OgDbi3fv2gqzQP/9x99b1UMtue1fKH2UipEKlCRGSsFPjd5y1/nDV4VVTl7Ew==",
+  "success": true,
+  "projectFilePath": "/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/ClimateMonitor.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/joaosilva/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

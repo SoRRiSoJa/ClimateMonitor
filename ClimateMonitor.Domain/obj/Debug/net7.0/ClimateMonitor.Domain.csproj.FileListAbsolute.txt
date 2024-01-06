@@ -1,0 +1,11 @@
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/bin/Debug/net7.0/ClimateMonitor.Domain.deps.json
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/bin/Debug/net7.0/ClimateMonitor.Domain.dll
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/bin/Debug/net7.0/ClimateMonitor.Domain.pdb
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ClimateMonitor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ClimateMonitor.Domain.AssemblyInfoInputs.cache
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ClimateMonitor.Domain.AssemblyInfo.cs
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ClimateMonitor.Domain.csproj.CoreCompileInputs.cache
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ClimateMonitor.Domain.dll
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/refint/ClimateMonitor.Domain.dll
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ClimateMonitor.Domain.pdb
+/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Domain/obj/Debug/net7.0/ref/ClimateMonitor.Domain.dll

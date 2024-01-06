@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9P4UYvvf9WrzvcQ1prsZ9t/GHTPlvsxwd1P8TSDt/9tL6lkEjm+S7QHiUPxtAmb/Q5x3nevt+1oiMlSWl7j6A==",
+  "success": true,
+  "projectFilePath": "/home/joaosilva/Repos/ClimateMonitor/src/ClimateMonitor.Infra/ClimateMonitor.Infra.csproj",
+  "expectedPackageFiles": [
+    "/home/joaosilva/.nuget/packages/dapper/2.1.24/dapper.2.1.24.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/dapper.fluentmap/2.0.0/dapper.fluentmap.2.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/dapper.fluentmap.dommel/2.0.0/dapper.fluentmap.dommel.2.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/dommel/2.0.0/dommel.2.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/joaosilva/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
